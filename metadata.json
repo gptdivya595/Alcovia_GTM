@@ -1,0 +1,6 @@
+{
+  "name": "Alcovia Student Study Companion",
+  "description": "A focused, student-friendly study companion prototype designed to reduce planning friction, guide meaningful focus sessions, and assess real comprehension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
